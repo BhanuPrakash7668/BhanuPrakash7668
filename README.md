@@ -1,118 +1,102 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-%F0%9F%96%A5%EF%B8%8F-blue" alt="AI/ML Engineer" height="28"/>
-  <img src="https://img.shields.io/badge/Multi%20Agent%20Systems-%F0%9F%94%A5-orange" alt="Multi Agent Systems" height="28"/>
-  <img src="https://img.shields.io/badge/Pythonista-%F0%9F%90%8D-yellow" alt="Pythonista" height="28"/>
-</p>
+<!-- Hero -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&text=Bhanu%20Prakash&fontAlign=50&fontSize=48&fontColor=ffffff&desc=I%20build%20intelligent%20agents%20that%20ship.&descAlign=50&descSize=18)
 
-<h1 align="center">👋 Hi, I'm Bhanu Prakash</h1>
-<p align="center"><i>Builder of intelligent agents | ML engineer | Systems Designer | Open to work!</i></p>
+<p align="center">
+  <b>Builder of intelligent agents • ML Engineer • Systems Designer</b><br/>
+  <i>“We shape our tools and thereafter our tools shape us.” — Marshall McLuhan</i>
+</p>
 
 ---
 
-<p align="center"><b>“Empowering workflows, one agent at a time.”</b></p>
-<blockquote align="center" style="font-style:italic;">
-  “The best way to predict the future is to create it.” – Alan Kay
-</blockquote>
+### 👋 About me
+- I design and ship AI agents that do real work: researching, reasoning, writing, querying data, and operating terminals.
+- Interests: multi-agent systems, retrieval-augmented generation (RAG), LLM safety/reliability, and human-in-the-loop workflows.
+- Open to collaborations & roles in AI/ML and agentic systems.
 
 ---
 
 ## 🚀 Featured AI/ML Projects
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/BhanuPrakash7668/langgraph-sql-agent/blob/main/images/workflow.png" width="110"/><br>
-      <b><a href="https://github.com/BhanuPrakash7668/langgraph-sql-agent">LangGraph SQL Agent</a></b>
-      <br>
-      <img src="https://img.shields.io/badge/LangGraph-✔️-success"/>
-      <img src="https://img.shields.io/badge/SQLAlchemy-✔️-blueviolet"/>
-      <br>
-      <i>Natural language interface to query and manage SQL databases using AI. Converts user input to SQL, executes safely, and returns interpretive responses.</i>
-    </td>
-    <td>
-      <img src="https://github.com/BhanuPrakash7668/LangCraft/blob/main/media/workflow.png" width="110"/><br>
-      <b><a href="https://github.com/BhanuPrakash7668/LangCraft">LangCraft</a></b>
-      <br>
-      <img src="https://img.shields.io/badge/Python-✔️-informational"/>
-      <img src="https://img.shields.io/badge/Few_Shot_Learning-✔️-orange"/>
-      <br>
-      <i>Agent that generates highly personalized, LinkedIn-ready posts from any article, blog, or paper using few-shot learning and style-mimicking capabilities.</i>
-    </td>
-    <td>
-      <img src="https://github.com/BhanuPrakash7668/Corrective-RAG/blob/main/media/workflow.png" width="110"/><br>
-      <b><a href="https://github.com/BhanuPrakash7668/Corrective-RAG">Corrective-RAG</a></b>
-      <br>
-      <img src="https://img.shields.io/badge/RAG-✔️-blue"/>
-      <img src="https://img.shields.io/badge/LangChain-✔️-green"/>
-      <br>
-      <i>Implements advanced Retrieval Augmented Generation with feedback refinement and web fallback for reliable LLM answers.</i>
-    </td>
-  </tr>
-</table>
+### 🧭 Kursor — Terminal AI Agent (ReAct + LangChain)
+AI agent for your terminal that manages files, writes code, and executes commands with natural language.  
+**Stack:** Python, LangChain, ReAct, small web UI.  
+[Repo ↗](https://github.com/BhanuPrakash7668/Kursor)
 
 ---
 
-### 🧠 More Smart Agents & Tools
-
-- **Self-RAG**  
-  Self-reflective Retrieval Augmented Generation, inspired by research, automates critique and validation of LLM responses for reliability.  
-  <img src="https://img.shields.io/badge/Self_Reflection-✔️-blue"/> <img src="https://img.shields.io/badge/LangGraph-✔️-orange"/>
-
-- **Intellecta**  
-  Multi-agent research system to automate literature searches, analysis, and structured report generation.  
-  <img src="https://img.shields.io/badge/Multi_Agent-✔️-yellow"/> <img src="https://img.shields.io/badge/FastAPI-✔️-green"/> <img src="https://img.shields.io/badge/Dockerized-✔️-blue"/>
-
-- **Kursor**  
-  Natural language terminal agent for file management, code generation, and command execution.  
-  <img src="https://img.shields.io/badge/ReAct_Framework-✔️-orange"/> <img src="https://img.shields.io/badge/LangChain-✔️-green"/>
-
-- **Human-in-the-Loop Agent**  
-  Prototyped agent with active user intervention, demonstrating explainable and correctable agent flows.  
-  <img src="https://img.shields.io/badge/HITL-✔️-teal"/> <img src="https://img.shields.io/badge/LangChain-✔️-orange"/>
+### 🧱 Corrective-RAG — Web-search fallback & feedback loop
+Advanced RAG workflow integrating corrective feedback and web search to improve factuality and coverage.  
+**Stack:** Python, LangChain, (C-RAG inspired).  
+[Repo ↗](https://github.com/BhanuPrakash7668/Corrective-RAG)
 
 ---
 
-## 🏆 Tech I'm Passionate About
-
-<p>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-🟩-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-🟢-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-🔵-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-🟪-success?style=for-the-badge"/>
-</p>
+### 🪞 Self-RAG — Retrieval + Self-Reflection with LangGraph
+Self-grading / critique loop that improves the final answer quality across relevance & grounding.  
+**Stack:** Python, LangGraph, LangChain.  
+[Repo ↗](https://github.com/BhanuPrakash7668/Self-Rag)
 
 ---
 
-## 🌱 Current Focus
-
-- Building next-gen **autonomous research assistants**
-- Experimenting with **multi-agent orchestration**
-- Designing scalable ML systems using Docker & FastAPI
-- Open for **collaborations** & **AI/ML opportunities**
+### ✍️ LangCraft — Personalized LinkedIn Post Generator
+Agent that turns any article/paper into a post in *your* voice using few-shot learning.  
+**Stack:** Python, LangChain, LangGraph.  
+[Repo ↗](https://github.com/BhanuPrakash7668/LangCraft)
 
 ---
 
-## 🤝 Let's Connect!
+### 🗄️ LangGraph SQL Agent — Natural-language DB ops
+Ask questions like “Show my orders” → turns into SQL, executes safely, and replies in plain English.  
+**Stack:** LangGraph, LangChain, SQLAlchemy, Jupyter.  
+[Repo ↗](https://github.com/BhanuPrakash7668/langgraph-sql-agent)
 
+---
+
+### 🧮 LangChain SQL Agent — NL ↔ SQL on Chinook
+Compact demo of a LangChain agent that generates SQL for the Chinook DB and explains results.  
+**Stack:** LangChain, Jupyter.  
+[Repo ↗](https://github.com/BhanuPrakash7668/langchain-sql-agent)
+
+---
+
+### 🧑‍🔬 Intellecta — Multi-Agent Research System
+Orchestrated research pipeline: retrieve → analyze (RAG + Chroma) → synthesize → (optional) human checkpoints.  
+**Stack:** FastAPI, LangGraph/LangChain, ChromaDB, Docker, PostgreSQL.  
+[Repo ↗](https://github.com/BhanuPrakash7668/Intellecta)
+
+---
+
+## 🧠 Tech I enjoy
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhanuprakash7668">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhanu Prakash LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LangGraph-2b2b2b?label=LangGraph&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-1e1e1e?logo=database&logoColor=white&labelColor=1e1e1e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
 </p>
+
+
+
+## 🔭 Current Focus
+- Multi-agent orchestration with conditional routing and memory.
+- Robust RAG (self-grading, corrective loops, web fallback).
+- Scalable agent backends with Docker + FastAPI.
+- Human-in-the-loop tooling for safety and control.
+
+---
+
+## 🤝 Let’s connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white)](mailto:bhanuprakash.l@outkook.com)
+[![Portfolio](https://img.shields.io/badge/Website-111111?logo=vercel&logoColor=white)](https://www.bhanuprakashl.me/)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhanuPrakash7668&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <sub>⚡ Pushing the boundary between “prompt” and “product.”</sub>
 </p>
 
-<!--
-**NOTE:**  
-Update badges and links as needed. To maximize engagement, pin your top projects and keep visuals updated!
--->
